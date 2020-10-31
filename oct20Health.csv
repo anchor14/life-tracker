@@ -1,0 +1,21 @@
+,workout,workout type,workout hour,meditation,meditation type,extra food,body weight,weight difference,happiness score,MO
+2020.10.12,TRUE,shoulder,1,FALSE,none,none,63.1,0.1,6,0
+2020.10.13,TRUE,back,1.5,TRUE,everyday headspace,"avocado, sweet potato, bread",63.8,0.7,6.5,0
+2020.10.14,TRUE,futsal,2,FALSE,none,avocado,63.3,-0.5,7.5,1.5
+2020.10.15,TRUE,push,1.25,TRUE,everyday headspace,"banana,sandwich",64,0.7,7.5,1
+2020.10.16,TRUE,cardio,1.5,FALSE,none,banana,63.1,-0.9,7,0
+2020.10.17,TRUE,pull,1.5,TRUE,everyday headspace,"chops burger, banana",63.3,0.2,7.5,1
+2020.10.18,FALSE,rest,0,FALSE,none,"banana,sandwich",63.8,0.5,7,0
+2020.10.19,TRUE,"push,ping pong",1.5,TRUE,sleep,bread,64,0.2,7.5,1
+2020.10.20,TRUE,futsal,1.5,FALSE,none,"nuts,sweet potato",64.1,0.1,7,0
+2020.10.21,TRUE,pull,1.5,TRUE,sleep,bread,64.1,0,7.5,0
+2020.10.22,TRUE,ping pong,1.5,TRUE,sleep,bread,64.2,0.1,5,0
+2020.10.23,TRUE,push,1.5,FALSE,,cereal bar,63.6,-0.6,6,1
+2020.10.24,FALSE,rest,0,FALSE,,"ramen,choco pie",63.8,0.2,7.5,2
+2020.10.25,FALSE,rest,0,TRUE,everyday headspace,chicken wings,64,0.2,8,0
+2020.10.26,,,,,,,,,,
+2020.10.27,,,,,,,,,,
+2020.10.28,,,,,,,,,,
+2020.10.29,,,,,,,,,,
+2020.10.30,,,,,,,,,,
+2020.10.31,,,,,,,,,,
