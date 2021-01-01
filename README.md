@@ -35,6 +35,4 @@ The goal of this is to analyze the recorded data to
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+jaehurn.nam@gmail.com
